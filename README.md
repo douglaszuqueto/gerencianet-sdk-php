@@ -83,6 +83,7 @@ You can run using any web server, like Apache or nginx, or simple start a php se
 
 ```php
 php -S localhost:9000
+teste
 ```
 
 Then open any example in your browser.
